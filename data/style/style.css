@@ -1,0 +1,36 @@
+.navBardemoBasicUsage md-content .ext-content {
+  padding: 50px;
+  margin: 20px;
+  background-color: #FFF2E0; }
+
+ .image{
+ 	width: 300px;
+ 	max-height: 400px;
+ }
+
+ .name{
+ 	color: red;
+ 	font-size: 30px;
+ }
+
+ .list{
+ 	margin-left: 400px;
+ }
+
+ .filter{
+ 	float: left;
+ 	width: 300px;
+ }
+
+ .header{
+ 	padding: 10px;
+ 	background-color:lightgray;
+ }
+
+.description{
+	font-weight:bold;
+}
+
+.button{
+	float: right;
+}
